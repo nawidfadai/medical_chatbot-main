@@ -1,2 +1,2 @@
-# medical_chatbot-main
-this is the llama3.1 8b chatbot and 13 and 70 and gemma and good UI and groq using
+# medical_chatbot
+A front-end chat application was developed using Streamlit. This application allows users to interact with four different language models (Llama 3, Mistral 7B, Gemma 2). The application facilitates comparison and evaluation of the models' responses to various inputs.
